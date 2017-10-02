@@ -6,6 +6,12 @@
 
 ## ORF
 
-* Len: `21bp`
-* Loc: `3679-3699`
-* Seq: `CTCGAGATGGGGAGCGGATCC`
+| Loc       | Len  | Seq                     |
+|:----------|:-----|:------------------------|
+| 3679-3699 | 21bp | `CTCGAGATGGGGAGCGGATCC` |
+|           |      |                         |
+|           |      |                         |
+|           |      |                         |
+|           |      |                         |
+|           |      |                         |
+|           |      |                         |
